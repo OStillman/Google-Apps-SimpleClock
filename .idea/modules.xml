@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../Clock/.idea/Clock.iml" filepath="$PROJECT_DIR$/../Clock/.idea/Clock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Google-Apps-SimpleClock.iml" filepath="$PROJECT_DIR$/.idea/Google-Apps-SimpleClock.iml" />
     </modules>
   </component>
 </project>
